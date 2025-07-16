@@ -1,3 +1,5 @@
+
+#include <Arduino.h>
 #include <TFT_eSPI.h> // Biblioteka do wyświetlacza TFT
 #include <Keypad.h>   // Biblioteka do klawiatury membranowej
 #include <SD.h>       // Biblioteka do obsługi karty SD
